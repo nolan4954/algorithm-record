@@ -40,6 +40,8 @@ public class TowSum_1 {
 
     /**
      * 与上解法基本一致，只是少遍历了一次数组
+     * time complexity: O(n)
+     * space complexity: O(n)
      * @param nums
      * @param target
      * @return

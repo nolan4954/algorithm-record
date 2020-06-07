@@ -27,6 +27,6 @@ public class ListNode {
             System.out.print(h.val + " -> ");
             h = h.next;
         }
-        System.out.print("null");
+        System.out.print("null\n");
     }
 }
