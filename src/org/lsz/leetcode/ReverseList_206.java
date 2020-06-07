@@ -7,6 +7,7 @@ package org.lsz.leetcode;
 import org.lsz.util.ListNode;
 
 /**
+ * 反转链表
  * @author liushuangzeng
  * @Date 20/6/6  下午8:17
  */

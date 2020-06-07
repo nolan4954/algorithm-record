@@ -7,6 +7,7 @@ package org.lsz.leetcode;
 import org.lsz.util.ListNode;
 
 /**
+ * 对于2个整数的链表，求和运算，返回一个新的链表。其中顺序均为低位在前，高位在后。
  * @author liushuangzeng
  * @Date 20/6/7 上午9:41
  */
