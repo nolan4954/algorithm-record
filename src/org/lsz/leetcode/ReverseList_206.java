@@ -8,7 +8,7 @@ import org.lsz.util.ListNode;
 
 /**
  * @author liushuangzeng
- * @Date 20/6/6 下午8:17
+ * @Date 20/6/6  下午8:17
  */
 public class ReverseList_206 {
 
