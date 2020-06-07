@@ -10,7 +10,7 @@ package org.lsz.util;
  */
 public class ListNode {
 
-    public int data;
+    public int val;
 
     public ListNode next;
 
@@ -18,13 +18,13 @@ public class ListNode {
     }
 
     public ListNode(int data) {
-        this.data = data;
+        this.val = data;
     }
 
     public void printListNode() {
         ListNode h = this;
         while (h != null) {
-            System.out.print(h.data + " -> ");
+            System.out.print(h.val + " -> ");
             h = h.next;
         }
         System.out.print("null");
